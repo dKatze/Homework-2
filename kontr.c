@@ -27,7 +27,7 @@
 */
 int main(void) {
 	const char* stroka1 = "up  u";
-	const char* stroka2 = "r ef fer";
+	const char* stroka2 = "r ef er";
 	const char* cleanStroka2[1000];
 	/*int n;
 	scanf("%d", &n);*/\
